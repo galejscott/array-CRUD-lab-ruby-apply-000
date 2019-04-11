@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  array = [athos, aramis, porthos, dartan]
+  array = [athos, aramis, porthos, dartagnan]
 end
 
 def add_element_to_end_of_array(array, element)
